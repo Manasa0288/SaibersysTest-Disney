@@ -10,6 +10,5 @@ public class DisneyCall {
 		DisneyWorld  disney_Xpath =new DisneyWorld();
 		disney_Xpath.xpath(); 
 	}
-		
 
 }
